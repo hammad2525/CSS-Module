@@ -1,7 +1,11 @@
-div p{
+.div1{
 
     background-color: blue;
    
     color: chartreuse;
 
+}
+.second-div{
+
+    font-size: 52px;
 }
